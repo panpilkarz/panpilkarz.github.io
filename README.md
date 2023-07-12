@@ -9,12 +9,6 @@ The less system resources a software utilizes on runtime the better:
 * less energy is used,
 * smaller demand for hardware saves world's resources (metal, semiconductors)
 
-# Python is 57x slower than C++ (and 45x worse for the planet)
-
-![image](https://github.com/panpilkarz/panpilkarz.github.io/assets/5645129/84373e1e-8c29-4bb1-9e94-ef55e2782b1e)
-
-[https://www.efinancialcareers.com/news/2023/06/which-programming-language-uses-the-most-energy](https://www.efinancialcareers.com/news/2023/06/which-programming-language-uses-the-most-energy)
-
 # Case studies
 
 ## Figma
@@ -44,3 +38,17 @@ The less system resources a software utilizes on runtime the better:
 > We built our own search engine from scratch, in Rust, specifically for the domain of code search. We call this search engine Blackbird. To be fair, we’ve tried and have been trying, for almost the entire history of GitHub, to use existing solutions for this problem.
 
 [https://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search/](https://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search/)
+
+# Articles and other media
+
+## Python is 57x slower than C++ (and 45x worse for the planet)
+
+![image](https://github.com/panpilkarz/panpilkarz.github.io/assets/5645129/84373e1e-8c29-4bb1-9e94-ef55e2782b1e)
+
+[https://www.efinancialcareers.com/news/2023/06/which-programming-language-uses-the-most-energy](https://www.efinancialcareers.com/news/2023/06/which-programming-language-uses-the-most-energy)
+
+## Making Python 100x faster with less than 100 lines of Rust
+
+![image](https://github.com/panpilkarz/panpilkarz.github.io/assets/5645129/b0b6e364-42e3-4c72-ada1-30cac82b7706)
+
+[https://ohadravid.github.io/posts/2023-03-rusty-python/](https://ohadravid.github.io/posts/2023-03-rusty-python/)
