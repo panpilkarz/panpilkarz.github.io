@@ -52,3 +52,9 @@ The less system resources a software utilizes on runtime the better:
 ![image](https://github.com/panpilkarz/panpilkarz.github.io/assets/5645129/b0b6e364-42e3-4c72-ada1-30cac82b7706)
 
 [https://ohadravid.github.io/posts/2023-03-rusty-python/](https://ohadravid.github.io/posts/2023-03-rusty-python/)
+
+## I saved 87% on compute costs by switching languages (Ruby -> Rust)
+
+![image](https://github.com/panpilkarz/panpilkarz.github.io/assets/5645129/04e29833-5beb-4905-bce7-ff0c934a5f09)
+
+[https://worldwithouteng.com/articles/i-saved-87-percent-on-compute-costs-by-switching-languages/](https://worldwithouteng.com/articles/i-saved-87-percent-on-compute-costs-by-switching-languages/)
